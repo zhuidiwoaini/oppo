@@ -1,0 +1,15 @@
+
+.navbar {
+    border-radius:0;
+}
+@media all and (min-width:1200px){
+	 /* 1200以上屏幕  内容要在1200px */
+	/* 局部修改*/
+	.container{
+		width:1200px;
+	}
+	body{
+		background:red;
+	}
+
+}
